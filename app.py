@@ -92,3 +92,11 @@ if __name__ == '__main__':
 
 
 # freeze requirements
+
+# gunicorn
+# generate dependencies
+# pip3 freeze > requirements.txt
+
+
+# What should heroku do with this?
+# touch Procfile 
